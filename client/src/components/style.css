@@ -1,0 +1,48 @@
+#main{
+    background-color: sienna;
+    padding: 20px;
+    width: 600px;
+    margin: 10px auto 0 auto;
+}
+img{
+    width: 70px;
+    float: left;
+}
+#view{
+    background-color: rgb(56, 79, 157);
+    color: white;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+#walk{
+    background-color: rgb(165, 50, 50);
+    color: white;
+    display: inline-block; 
+    margin-left: 10px;
+
+}
+#name{
+    display: inline-block;
+}
+#pirates{
+    padding: 10px;
+    border: 1px dotted black;
+    width: 500px;
+    height: 110px;
+    margin: 15px auto 15px auto;
+    background-color: sandybrown;
+}
+#pirate{
+    padding: 20px;
+    width: 600px;
+    margin: 15px auto 15px auto;
+    background-color: sandybrown;
+}
+#error{
+    color: red;
+}
+h1{
+    color:white
+}
+

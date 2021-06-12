@@ -1,0 +1,25 @@
+img{
+    width: 200px;
+    float: none;
+}
+#left{
+    width: 500px;
+    margin: 15px auto 15px auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+#right{
+
+    width: 500px;
+    height: 500px;
+    margin: 15px auto 15px auto;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+#pirate{
+    padding: 20px;
+    width: 1000px;
+    margin: 15px auto 15px auto;
+    background-color: sandybrown;
+}
